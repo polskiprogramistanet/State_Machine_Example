@@ -30,7 +30,7 @@ namespace State_Machine_Examples
             phoneCall.Print();
             //Console.WriteLine(phoneCall.ToDotGraph());
 
-            //Console.WriteLine("Press any key...");
+            Console.WriteLine("Press any key...");
             Console.ReadKey(true);
         }
     }
